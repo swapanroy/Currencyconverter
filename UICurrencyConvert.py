@@ -4,7 +4,8 @@ from tkinter import *
 import requests
 
 # Where USD is the base currency you want to use
-url = 'https://v6.exchangerate-api.com/v6/e777cb6748ae2bf9355079c5/latest/USD/'
+# Get a KEY from https://v6.exchangerate-api.com or any other place amd replace it in the below URL :) 
+url = 'https://v6.exchangerate-api.com/v6/KEY/latest/USD/'
 
 # Making our request
 response = requests.get(url)
@@ -17,7 +18,8 @@ print(data['conversion_rates']['USD'])
 window = Tk()
 
 # Addimg my custom logo :) 
-img=PhotoImage(file='C:\Swapan\Research\PlaywithPython\Tinker Section\SwapanRoy-logo.gif')
+# Logo file added
+img=PhotoImage(file='SwapanRoy-logo.gif')
 img = img.zoom(3, 3) 
 window.iconphoto(True, img)
 
