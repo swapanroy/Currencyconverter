@@ -17,4 +17,6 @@ Below is the process that I followed
 
 ![When user inputs numeric value and convert button is hit](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v05h03x96w5cx4ib2t6b.GIF)
 
+Reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
+
 
