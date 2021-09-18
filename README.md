@@ -88,6 +88,10 @@ Functions
       # Deletes content from t2 Text box
       t2.delete("1.0", END)
 
+
+Updated code to include Bitcoin
+![When the program starts](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tes7869le53smji0q39v.GIF)
+
 Reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
 
 
