@@ -92,6 +92,6 @@ Functions
 Updated code to include Bitcoin
 ![When the program starts](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tes7869le53smji0q39v.GIF)
 
-Reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
+For collaboration or suggestion, reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
 
 
