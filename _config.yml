@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/119002816-2f338480-b95b-11eb-9328-02a64461d9df.jpg");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
