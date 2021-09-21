@@ -1,4 +1,4 @@
-# Currencyconverter
+# Currency Converter
 Python code to pull live currency data 
 
 *Concept:* 
